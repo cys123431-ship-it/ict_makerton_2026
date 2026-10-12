@@ -1,11 +1,7 @@
 # 수업 노트
 
----
-
-## claude 에서 Figma 커넥터로 활용한다
-
----
-
+- claude 에서 Figma 커넥터로 활용한다
+- [녹화본링크](https://youtu.be/ACWwGB-5oGE)
 
 ```text
 claude 에서 커넥터를 이용해서 디자인 하는 방식을 수강 중이다. gpt app 이나 codex 에서 같은 방식으로 작업 할 수 있는가?

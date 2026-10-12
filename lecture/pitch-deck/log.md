@@ -4,6 +4,8 @@
 
 ## 투자 유치를 위한 발표스킬
 
+- [녹화본 링크](https://youtu.be/pLklShzyAqw)
+
 - IR 피칭
 ![alt text]({061AE998-F0CB-46A8-BC6A-4E204CCEE320}.png)
 - 심사자는 여러분의 이야기를 잘 듣지 않는다.
